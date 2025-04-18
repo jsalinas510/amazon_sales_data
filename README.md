@@ -32,3 +32,10 @@ Average number of reviews per category
 
 🧠 4. Value for Money Products
 Goal: Highlight products that are highly rated and highly discounted.
+
+
+Hypothesis:
+Hypothesis #1: Larger Discount = Higher Rating
+Hypothesis #2: Lower Discount = lower Rating 
+Hypothesis #3: category influences rating
+Hypothesis #4: Number of reviews correlation to higher/lower rating
