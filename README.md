@@ -1,41 +1,9 @@
-# amazon_sales_data
-This is used to analyze trends between amazon product ratings and discounts.
+# Product Sales and Popularity Analysis [Amazon]
+My goal is to understand what influences product ratings on Amazon. This analysis identifies trends between amazon __product ratings__, __rating count__, __user activity__ and __discounted products__.
 
-These are the questions I am hoping to answer:
-📊 1. Pricing & Discounts Analysis
-Goal: Understand how discounts impact pricing across categories.
-Average discount by category
-Products with highest discount percentages
-Correlation between discount percentage and number of reviews/ratings
-
-🌟 2. Product Ratings & Popularity
-Goal: Find top-performing products based on rating and engagement.
-SQL questions:
-Top-rated products with the most rating_count
-
-
-Categories with the highest-rated products
-
-
-Products have the most reviews
-
-🔁 3. Review Insights
-Goal: Understand user engagement and which products attract the most reviews.
-SQL questions:
-Unique users are leaving review
-
-
-Users with the most reviews
-
-
-Average number of reviews per category
-
-🧠 4. Value for Money Products
-Goal: Highlight products that are highly rated and highly discounted.
-
-
-Hypothesis:
-Hypothesis #1: Larger Discount = Higher Rating
-Hypothesis #2: Lower Discount = lower Rating 
-Hypothesis #3: category influences rating
-Hypothesis #4: Number of reviews correlation to higher/lower rating
+## My goal is to understand what influences product ratings on Amazon.
+### Hypothesis:
+1. Does larger discount = higher rating?
+2. Does smaller discount = lower rating?
+3. category influence rating
+4. number of reviews in correlation to popularity
